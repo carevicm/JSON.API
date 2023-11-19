@@ -2,6 +2,9 @@
 
 Project Description: Taco Town 🌮 - A Dynamic Recipe Web Application
 
+Taco Town is a delightful and straightforward web application that combines various technologies to deliver a seamless and interactive user experience. 
+From the client-side interactivity to the server-side data handling, each technology plays a crucial role in creating an efficient and dynamic web application.
+This project serves as an excellent example of modern web development practices.
 
 Project Overview:
 
