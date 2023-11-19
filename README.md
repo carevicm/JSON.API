@@ -2,20 +2,17 @@
 
 Project Description: Taco Town 🌮 - A Dynamic Recipe Web Application
 
+
+Project Overview:
+
 Taco Town is a delightful and straightforward web application that combines various technologies to deliver a seamless and interactive user experience. 
 From the client-side interactivity to the server-side data handling, each technology plays a crucial role in creating an efficient and dynamic web application.
 This project serves as an excellent example of modern web development practices.
 
-Project Overview:
-
-Taco Town is an interactive web application designed to provide users with delicious taco recipes. 
-The application features a simple and engaging interface where users can select their preferred taco ingredient (chicken, beef, or fish) and instantly view a customized recipe. 
-This project is an excellent example of how modern web technologies can be combined to create a user-friendly and dynamic web experience.
-
 
 Technologies Used:
 
-HTML & CSS: The frontend of the application is built using HTML5 and CSS3. HTML structures the content, while CSS is used for styling. The application features a responsive design with a focus on usability and aesthetics. The CSS includes custom styles for buttons, text, and layout, along with a unique background pattern created using SVG.
+HTML & CSS: The front end of the application is built using HTML5 and CSS3. HTML structures the content, while CSS is used for styling. The application features a responsive design with a focus on usability and aesthetics. The CSS includes custom styles for buttons, text, and layout, along with a unique background pattern created using SVG.
 
 JavaScript (Client-Side): Although not explicitly shown in the provided code, JavaScript may be used for handling user interactions in the browser, such as responding to button clicks.
 
@@ -25,7 +22,7 @@ EJS (Embedded JavaScript Templating): EJS is used as a templating engine to dyna
 
 Body-Parser: This middleware is used in the Express.js application for parsing incoming request bodies. It's essential for handling POST requests, as it allows access to req.body.
 
-JSON: The recipes are stored in a JSON format, which is a lightweight data interchange format. This makes it easy to store and retrieve recipe data, including details like ingredients, preparation methods, and prices.
+JSON: The recipes are stored in a JSON format, which is a lightweight data-interchange format. This makes it easy to store and retrieve recipe data, including details like ingredients, preparation methods, and prices.
 
 
 Application Logic:
